@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
@@ -7,7 +8,7 @@
 </head>
 <body style="background-colore: lightgrey;">
 <main>
-<h1 style="color:green; font-size:18px">Bienvenue dans la page de C-volaille</h1>
+<h1 style="color:red;">Bienvenue dans la page de C-volaille</h1>
 <p>Bonjour et bienvenue sur le site C-volaille qui vous offre une variété de sujets et des tarifs. Notre priorité est d'assurer un élevage moderne.
 </p>
 <h2 style="color:blue;">Liste des sujets disponibles </h2>
