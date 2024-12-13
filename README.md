@@ -2,13 +2,11 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>C-volaille</title>
 </head>
-<body style="background-colore: lightgrey;">
+<body>
 <main>
-<h1 style="color:red;">Bienvenue dans la page de C-volaille</h1>
+<h1">Bienvenue dans la page de C-volaille</h1>
 <p>Bonjour et bienvenue sur le site C-volaille qui vous offre une variété de sujets et des tarifs. Notre priorité est d'assurer un élevage moderne.
 </p>
 <h2 style="color:blue;">Liste des sujets disponibles </h2>
